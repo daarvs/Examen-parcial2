@@ -1,0 +1,50 @@
+.imagen{
+    height: 500px;
+    padding-left: 375px;
+    border: 10px aliceblue;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+body{
+    background-color: brown;
+}
+
+p{
+    color: aliceblue;
+    font-size: 16pt;
+    text-align: justify;
+}
+
+h2{
+    text-align: center;
+    color: aliceblue; 
+}
+
+.prindiv{
+    display: flex;
+  margin-left: 18%;
+}
+
+h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+.divtext{
+
+  display: flex;
+  margin-left: 17%;
+}
+
+.imgdiv{
+   height: 200px;
+}
+
+.div1{
+    display: flex;
+    margin-left: 13%;
+}
